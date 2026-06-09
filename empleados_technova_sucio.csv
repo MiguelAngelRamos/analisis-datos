@@ -1,0 +1,19 @@
+id,nombre,edad,ciudad,departamento,salario,fecha_ingreso,correo
+1,  Ana Pérez,34,Santiago,Ventas,$850.000,2020-03-15,ana.perez@technova.cl
+2,Carlos Soto  ,28,santiago,ventas,$1.200.000,2019-07-01,carlos.soto@technova.cl
+3,María González,,SANTIAGO,Marketing,$950.000,2021-01-20,maria.gonzalez@technova.cl
+4,Pedro Ramírez,45,Valparaíso,VENTAS,1500000,2018-11-05,NA
+5,Lucía Fernández,999,valparaíso,marketing,$1.100.000,2022-05-12,lucia.fernandez@technova.cl
+6,José Muñoz,NA,Concepción,Soporte,$780.000,2020-09-30,jose.munoz@technova.cl
+7,  Carla Díaz ,31,concepción,soporte,$820.000,2021-03-08,-
+8,Roberto Rojas,52,Antofagasta,Gerencia,$2.500.000,2017-02-14,roberto.rojas@technova.cl
+9,Fernanda Torres,0,Santiago,Marketing,$990.000,2023-06-01,fernanda.torres@technova.cl
+10,Diego Castro,38,santiago,Soporte,?,2019-12-19,diego.castro@technova.cl
+11,Valentina Silva,29,Iquique,Ventas,$880.000,2022-08-23,valentina.silva@technova.cl
+2,Carlos Soto  ,28,santiago,ventas,$1.200.000,2019-07-01,carlos.soto@technova.cl
+13,Andrés López,41,IQUIQUE,gerencia,$2.300.000,2018-04-17,andres.lopez@technova.cl
+14,Camila Vargas,,Valparaíso,Soporte,$800.000,2021-10-02,camila.vargas@technova.cl
+15,Sebastián Reyes,36,Concepción,VENTAS,$1.050.000,2020-01-28,
+16,Javiera Núñez,27, santiago ,Marketing,$910.000,2023-02-11,javiera.nunez@technova.cl
+17,Matías Herrera,33,Antofagasta,soporte,$830.000,2019-05-09,matias.herrera@technova.cl
+18,Paula Morales,48,antofagasta,Gerencia,$2.400.000,2016-08-21,paula.morales@technova.cl
