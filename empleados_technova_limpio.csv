@@ -1,0 +1,18 @@
+id,nombre,edad,ciudad,departamento,salario,fecha_ingreso,correo
+1,Ana Pérez,34,Santiago,Ventas,850000.0,2020-03-15,ana.perez@technova.cl
+2,Carlos Soto,28,Santiago,Ventas,1200000.0,2019-07-01,carlos.soto@technova.cl
+3,María González,35,Santiago,Marketing,950000.0,2021-01-20,maria.gonzalez@technova.cl
+4,Pedro Ramírez,45,Valparaíso,Ventas,1500000.0,2018-11-05,sin_correo
+5,Lucía Fernández,35,Valparaíso,Marketing,1100000.0,2022-05-12,lucia.fernandez@technova.cl
+6,José Muñoz,35,Concepción,Soporte,780000.0,2020-09-30,jose.munoz@technova.cl
+7,Carla Díaz,31,Concepción,Soporte,820000.0,2021-03-08,sin_correo
+8,Roberto Rojas,52,Antofagasta,Gerencia,2500000.0,2017-02-14,roberto.rojas@technova.cl
+9,Fernanda Torres,35,Santiago,Marketing,990000.0,2023-06-01,fernanda.torres@technova.cl
+10,Diego Castro,38,Santiago,Soporte,970000.0,2019-12-19,diego.castro@technova.cl
+11,Valentina Silva,29,Iquique,Ventas,880000.0,2022-08-23,valentina.silva@technova.cl
+13,Andrés López,41,Iquique,Gerencia,2300000.0,2018-04-17,andres.lopez@technova.cl
+14,Camila Vargas,35,Valparaíso,Soporte,800000.0,2021-10-02,camila.vargas@technova.cl
+15,Sebastián Reyes,36,Concepción,Ventas,1050000.0,2020-01-28,sin_correo
+16,Javiera Núñez,27,Santiago,Marketing,910000.0,2023-02-11,javiera.nunez@technova.cl
+17,Matías Herrera,33,Antofagasta,Soporte,830000.0,2019-05-09,matias.herrera@technova.cl
+18,Paula Morales,48,Antofagasta,Gerencia,2400000.0,2016-08-21,paula.morales@technova.cl
